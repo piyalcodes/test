@@ -10,4 +10,9 @@ class Vehicle {
         $this->colour = $colour;
     }
 
+    private function checkBreak()
+    {
+        return true;
+    }
+
 }
