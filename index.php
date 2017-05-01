@@ -1,7 +1,5 @@
 <?php
-echo 'Hello World!';
 
-<<<<<<< HEAD
 class Vehicle {
 
     private $colour;
@@ -16,6 +14,8 @@ class Vehicle {
         return true;
     }
 
+    function another() {
+        return false;
+    }
+
 }
-=======
->>>>>>> fd3164374d35d7cd8e81c9347dc3309dd783cdcf
